@@ -25,7 +25,7 @@ A supervised machine learning web application that predicts whether a loan appli
 - Demographic & Employment Details
 
 ## Live Demo
-👉 _Add Streamlit link here_
+👉 _https://loanapproval-app-hjsucskbbdymaka6hhbxuq.streamlit.app/_
 
 ## 📁 Project Structure
 Loan_Approval_System/
